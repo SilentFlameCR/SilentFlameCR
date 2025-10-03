@@ -12,7 +12,7 @@ Hi! I’m a software developer working with Blindside Networks in Ottawa and a 3
 
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-readme-stats.vercel.app/api?username=SilentFlameCR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=SilentFlameCR&theme=dark&hide_border=false)<br/>
+![](https://github-profile-trophy.vercel.app/?username=SilentFlameCR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentFlameCR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
