@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m a software developer working with Blindside Networks in Ottawa and a 3rd-year Computer Science student at Carleton University (AI & Machine Learning stream).<br>I love building practical solutions, exploring new technologies, and growing my skills through collaboration and continuous learning.
+Hi! I’m a software developer working with Blindside Networks in Ottawa and a 3rd-year major Computer Science student at Carleton University (AI & Machine Learning stream) with a Math minor.<br>I love building practical solutions, exploring new technologies, and growing my skills through collaboration and continuous learning.
 
 
 ## 🌐 Socials:
@@ -11,7 +11,9 @@ Hi! I’m a software developer working with Blindside Networks in Ottawa and a 3
 ![](https://nirzak-streak-stats.vercel.app/?user=SilentFlameCR&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SilentFlameCR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=SilentFlameCR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+![](https://nirzak-streak-stats.vercel.app/?user=SilentFlameCR&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SilentFlameCR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SilentFlameCR&icon=0&color=0)](https://visitcount.itsvg.in)
