@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m a software developer working with Blindside Networks in Ottawa and a 3rd-year major Computer Science student at Carleton University (AI & Machine Learning stream) with a Math minor.<br>I love building practical solutions, exploring new technologies, and growing my skills through collaboration and continuous learning.
+Hi! I’m a Software Engineer working with Blindside Networks in Ottawa and a 3rd-year major Computer Science student at Carleton University (AI & Machine Learning stream) with a Math minor.<br>I love building practical solutions, exploring new technologies, and growing my skills through collaboration and continuous learning.
 
 
 ## 🌐 Socials:
